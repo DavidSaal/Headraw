@@ -4,15 +4,16 @@
 
 ### Introduction
 The goal of the project is to create an iOS app for children with motor problems,<br>
-that will allow them to paint a coloring book with the front camera of their device.<br>
-With the assistance of gaze focusing technology - a system that allows using head control and gaze recognition (An evolving approach in the field of intelligence the artificial).<br>
-The app is intended for children with motor problems who cannot operate a computer or any assistive technology that works with buttons<br>
+that will allow them to draw a coloring book with the front camera of their device.<br>
+We were assisted by gazing focusing technology - a system that allows using head control and gaze recognition (An evolving approach in the field of intelligence the artificial).<br>
+The app is intended for children who cannot operate a computer or any assistive technology that works with buttons,<br>
 And our app will help them expand their capabilities.
 
 ### Work Process
-We integrated a drawing app with a library called HeadGazeLib,<br>
-which allows gaze focused with the device's camera and track the movement of the head,<br>
-that enabling coloring of a drawing booklet.
+We integrated a drawing app and a library called HeadGazeLib,<br>
+which allows gaze focused that track the movement of the head<br>
+and enabling drawing a coloring booklet.
+
 
 ### Screenshots
 <p align="center">
