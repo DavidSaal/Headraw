@@ -22,6 +22,7 @@ that enabling coloring of a drawing booklet.
 </p>
 <p align="center">
 <img src="Images/5.jpg" alt="Back button" width="32%"/>
+<img src="Images/6.jpg" alt="Back button" width="32%"/>
 <img src="Images/7.jpg" alt="Undo button" width="32%"/>
 
 </p>
