@@ -1,11 +1,11 @@
 <p align="center">
-<img src="Images/logo.png" alt="logo" width="80%"/>
+<img src="Images/logo.png" alt="logo" width="70%"/>
 </p>
 
 ### Introduction
-The goal of the project is to create an iOS app for children with motor problems<br>
-that will allow them to paint a coloring book with the front camera of their device<br>
-using gaze focusing technology - a system that allows using head control and gaze recognition (An evolving approach in the field of intelligence the artificial).<br>
+The goal of the project is to create an iOS app for children with motor problems,<br>
+that will allow them to paint a coloring book with the front camera of their device.<br>
+'ith the assistance of gaze focusing technology - a system that allows using head control and gaze recognition (An evolving approach in the field of intelligence the artificial).<br>
 The app is intended for children with motor problems who cannot operate a computer or any assistive technology that works with buttons<br>
 And our app will help them expand their capabilities.
 
@@ -32,5 +32,5 @@ that enabling coloring of a drawing booklet.
 <img src="Images/10.jpg" alt="Reset painting" width="32%"/>
 </p>
 <p align="center">
-<img src="Images/11.jpg" alt="Drawing example" width="60%"/>
+<img src="Images/11.jpg" alt="Drawing example" width="50%"/>
 </p>
