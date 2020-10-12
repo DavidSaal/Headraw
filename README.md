@@ -23,12 +23,13 @@ that enabling coloring of a drawing booklet.
 <p align="center">
 <img src="Images/5.jpg" alt="Back button" width="32%"/>
 <img src="Images/7.jpg" alt="Undo button" width="32%"/>
-<img src="Images/8.jpg" alt="Gallery saved example" width="32%"/>
+
 </p>
 <p align="center">
+<img src="Images/8.jpg" alt="Gallery saved example" width="32%"/>
 <img src="Images/9.jpg" alt="Final Painting" width="32%"/>
 <img src="Images/10.jpg" alt="Reset painting" width="32%"/>
 </p>
 <p align="center">
-<img src="Images/11.jpg" alt="Drawing example" width="80%"/>
+<img src="Images/11.jpg" alt="Drawing example" width="60%"/>
 </p>
