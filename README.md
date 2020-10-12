@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Images/logo.png" alt="logo" width="50%"/>
+<img src="Images/logo.png" alt="logo" width="80%"/>
 </p>
 
 ### Introduction
@@ -17,23 +17,16 @@ that enabling coloring of a drawing booklet.
 ### Screenshots
 <p align="center">
 <img src="Images/1.jpg" alt="Home screen" width="32%"/>
-<img src="Images/3.jpg" alt="Drawing screen" width="32%"/>
+<img src="Images/3.jpg" alt="Choose color" width="32%"/>
 <img src="Images/4.jpg" alt="Choose color" width="32%"/>
 </p>
 <p align="center">
-<img src="Images/11.jpg" alt="Drawing example" width="32%"/>
-<img src="Images/12.jpg" alt="Continue drawing example" width="32%"/>
-<img src="Images/7.jpg" alt="Undo button" width="32%"/>
-
-</p>
-<p align="center">
 <img src="Images/5.jpg" alt="Back button" width="32%"/>
-<img src="Images/6.jpg" alt="Save for later" width="32%"/>
-<img src="Images/2.jpg" alt="Save in gallery" width="32%"/>
-
+<img src="Images/7.jpg" alt="Undo button" width="32%"/>
+<img src="Images/8.jpg" alt="Gallery saved example" width="32%"/>
 </p>
 <p align="center">
-<img src="Images/8.jpg" alt="Gallery saved example" width="32%"/>
 <img src="Images/9.jpg" alt="Final Painting" width="32%"/>
 <img src="Images/10.jpg" alt="Reset painting" width="32%"/>
+<img src="Images/11.jpg" alt="Drawing example" width="32%"/>
 </p>
